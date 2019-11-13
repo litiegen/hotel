@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "static/css/main.0a6af645.chunk.css",
+    "main.js": "static/js/main.6e61fc5e.chunk.js",
+    "main.js.map": "static/js/main.6e61fc5e.chunk.js.map",
+    "runtime-main.js": "static/js/runtime-main.f7e6ebf6.js",
+    "runtime-main.js.map": "static/js/runtime-main.f7e6ebf6.js.map",
+    "static/css/2.6f60e7f3.chunk.css": "static/css/2.6f60e7f3.chunk.css",
+    "static/js/2.cc2411aa.chunk.js": "static/js/2.cc2411aa.chunk.js",
+    "static/js/2.cc2411aa.chunk.js.map": "static/js/2.cc2411aa.chunk.js.map",
+    "index.html": "index.html",
+    "precache-manifest.02188d87315fd045b93aadcf045e25ab.js": "precache-manifest.02188d87315fd045b93aadcf045e25ab.js",
+    "service-worker.js": "service-worker.js",
+    "static/css/2.6f60e7f3.chunk.css.map": "static/css/2.6f60e7f3.chunk.css.map",
+    "static/css/main.0a6af645.chunk.css.map": "static/css/main.0a6af645.chunk.css.map",
+    "static/media/1.jpg": "static/media/1.e15ee824.jpg",
+    "static/media/kuai.png": "static/media/kuai.23ad4552.png",
+    "static/media/lg1.jpg": "static/media/lg1.ad6781e8.jpg",
+    "static/media/lg2.jpg": "static/media/lg2.c7566fc9.jpg",
+    "static/media/lg3.jpg": "static/media/lg3.a4f3e578.jpg",
+    "static/media/lg4.jpg": "static/media/lg4.93ba144c.jpg",
+    "static/media/商城_02.jpg": "static/media/商城_02.1a5c9349.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f7e6ebf6.js",
+    "static/css/2.6f60e7f3.chunk.css",
+    "static/js/2.cc2411aa.chunk.js",
+    "static/css/main.0a6af645.chunk.css",
+    "static/js/main.6e61fc5e.chunk.js"
+  ]
+}
